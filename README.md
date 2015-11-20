@@ -7,8 +7,10 @@ https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutori
 http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
 https://github.com/dnouri/kfkd-tutorial
 https://github.com/wendykan/AWSGPU_DeepLearning
+~~~
 
-TODO:
+To look at:
+~~~
 https://github.com/olddocks/caffe-facialkp
 http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-with-caffe/
 PyLearn2
