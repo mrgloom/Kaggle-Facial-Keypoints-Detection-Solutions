@@ -1,0 +1,6 @@
+Content of this folder must be:
+training.csv
+test.csv
+IdLookupTable.csv
+
+You can download data from https://www.kaggle.com/c/facial-keypoints-detection/data
