@@ -9,7 +9,7 @@ Python scripts:
 
 
 
-Deep learning tutorial from kaggle using [Lasagne](https://github.com/Lasagne/Lasagne) ( based on [Theano](https://github.com/Theano/Theano) )
+Deep learning tutorial using [Lasagne](https://github.com/Lasagne/Lasagne) (based on [Theano](https://github.com/Theano/Theano)) by Daniel Nouri:
 ~~~
 https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutorial
 http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
@@ -17,10 +17,17 @@ https://github.com/dnouri/kfkd-tutorial
 https://github.com/wendykan/AWSGPU_DeepLearning
 ~~~
 
-To look at:
+Solution by Prabhu Balakrishnan:
 ~~~
+FANN
+https://github.com/olddocks/facialkeypoints
+Caffe
 https://github.com/olddocks/caffe-facialkp
 http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-with-caffe/
+~~~
+
+To look at:
+~~~
 PyLearn2
 https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
 Theano - autoencoder
