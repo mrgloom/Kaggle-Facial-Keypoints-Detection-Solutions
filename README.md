@@ -38,4 +38,7 @@ Theano
 https://github.com/CanoeFZH/kaggle/tree/master/facial-keypoints-detection
 R and H20
 https://ashokharnal.wordpress.com/2015/03/22/facial-keypoints-detection-using-r-deep-learning-and-h2o/
+
+Some R code:
+https://github.com/andlinville/facial-keypoints
 ~~~
