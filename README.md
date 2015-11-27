@@ -30,15 +30,14 @@ http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-
 
 To look at:
 ~~~
-PyLearn2
-https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
 Theano - autoencoder
 https://github.com/cowpig/deep_keypoints
 Theano
 https://github.com/CanoeFZH/kaggle/tree/master/facial-keypoints-detection
 R and H20
 https://ashokharnal.wordpress.com/2015/03/22/facial-keypoints-detection-using-r-deep-learning-and-h2o/
-
 Some R code:
 https://github.com/andlinville/facial-keypoints
+dp library based on Torch 7
+https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
 ~~~
