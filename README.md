@@ -36,4 +36,6 @@ Theano - autoencoder
 https://github.com/cowpig/deep_keypoints
 Theano
 https://github.com/CanoeFZH/kaggle/tree/master/facial-keypoints-detection
+R and H20
+https://ashokharnal.wordpress.com/2015/03/22/facial-keypoints-detection-using-r-deep-learning-and-h2o/
 ~~~
