@@ -15,6 +15,8 @@ https://www.kaggle.com/c/facial-keypoints-detection/details/deep-learning-tutori
 http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
 https://github.com/dnouri/kfkd-tutorial
 https://github.com/wendykan/AWSGPU_DeepLearning
+TensorFlow
+https://github.com/JeremyCCHsu/Kaggle_Facial_Keypoint
 ~~~
 
 Solution by Prabhu Balakrishnan:
