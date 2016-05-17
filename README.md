@@ -30,6 +30,8 @@ http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-
 
 To look at:
 ~~~
+Solution in Caffe
+https://github.com/qiexing/caffe-regression
 Theano - autoencoder
 https://github.com/cowpig/deep_keypoints
 Theano
