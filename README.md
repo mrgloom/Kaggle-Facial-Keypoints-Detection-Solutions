@@ -7,9 +7,8 @@ Python scripts:
 
 1. mean_example.py - just a baseline to test averything working fine.
 
-~~~
------------------------------------------------------------------------------
-~~~
+
+
 
 Deep learning tutorial using [Lasagne](https://github.com/Lasagne/Lasagne) (based on [Theano](https://github.com/Theano/Theano)) by Daniel Nouri:
 ~~~
