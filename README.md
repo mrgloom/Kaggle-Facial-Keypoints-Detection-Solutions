@@ -1,3 +1,5 @@
+`WORK IN PROGRESS`
+
 # Kaggle-Facial-Keypoints-Detection-Solutions
 Kaggle Facial Keypoints Detection Solutions
 
@@ -44,4 +46,6 @@ Some R code:
 https://github.com/andlinville/facial-keypoints
 dp library based on Torch 7
 https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
+solution in Keras
+https://github.com/nipe0324/kaggle-keypoints-detection-keras
 ~~~
